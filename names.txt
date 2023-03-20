@@ -1,0 +1,12 @@
+Devanshu Jain
+Rohan Nanda
+Abhimanyu Singh
+Shreya Goshal
+Mohak Narang
+Bill Gates
+Steve Jobs
+
+
+vi names.txt  -> To enter into file
+i             -> To enter insert mode to write elements in file
+:x            -> To exit back to the command mode
